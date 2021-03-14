@@ -1,6 +1,6 @@
 # NYU CS-GY-6513  Big Data Course project
 
-## Topic: Analyzing a few factors that affected the number of NYC covid infections since March 2020.
+## Topic: Analyzing few factors that affect the number of NYC covid infections since March 2020.
 
 We will use different dataset to analysis how several factors (such as vaccine, city policy, protest even) have impact the infect
 of covid in NYC.
